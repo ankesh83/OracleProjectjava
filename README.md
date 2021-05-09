@@ -38,3 +38,8 @@ Solution
 				  Application produces and consumes json.
           
 I have followed proper design pattern and principles.
+
+Remaining task:
+	add junit file.
+	pagination for get service.
+
